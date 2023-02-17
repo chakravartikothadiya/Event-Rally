@@ -1,7 +1,7 @@
 # Event-Rally
 
 ## **How To the Project**
-- **Step 1: clone the remote repository by: git clone https://github.com/ManyuDhyani/Event-Rally.git**
+- **Step 1: clone the remote repository by: git clone https://github.com/chakravartikothadiya/Event-Rally.git**
 - **Step 2: In termonal: npm install**
 - **Step 3: Then for seeding the database by sample data: node ./task/seed.js**
 - **Step 4: The finally run script: npm start**
